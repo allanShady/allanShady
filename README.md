@@ -10,3 +10,5 @@ I'm [Alan Camilo](https://www.allancamilo.com) from Mozambique and I ❤ creatin
 - 🌱 I often work with .NET Core (C#), VueJs (JavaScript), Deno (Typescript on top of rust)  
 - 💬 Ask me about anything
 - 📫 How to reach me: acamilo.ag@gmail.com 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanShady&layout=compact)](https://github.com/allanShady/github-readme-stats)
