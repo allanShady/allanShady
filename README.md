@@ -7,7 +7,7 @@
 I'm [Alan Camilo](https://www.allancamilo.com) from Mozambique and I ❤ creating software solutions to help people achieve more results, then they can have more time to enjoy the life. 😍🧘🏿‍
 
 - ⚒ I'm corrently working on my [personal website](https://www.allancamilo.com) 
-- 🌱 I often work with .NET Core (C#), VueJs (JavaScript), Deno (Typescript on top of rust)  
+- 🌱 I often work with .NET Core (C#), VueJs (JavaScript), Deno (Typescript on top of rust) + DevOps **CICD** with **docker** + **GitHub Action** 
 - 💬 Ask me about anything
 - 📫 How to reach me: acamilo.ag@gmail.com 
 
