@@ -7,8 +7,6 @@
 I'm [Alan Camilo](https://www.allancamilo.com) from Mozambique and I ❤ creating software solutions to help people achieve more results, then they can have more time to enjoy the life. 😍🧘🏿‍
 - ⚒ I'm corrently working on my [personal website](https://www.allancamilo.com) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanShady&layout=compact)](https://github.com/allanShady/github-readme-stats)
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
