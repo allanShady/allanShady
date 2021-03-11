@@ -8,4 +8,4 @@
 </p>
 
 #
-⚒ I'm corrently working on my [personal website](https://www.allancamilo.com) 
+![Visitor Count](https://profile-counter.glitch.me/allanShady/count.svg)
